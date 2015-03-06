@@ -18,4 +18,6 @@ To start a web server for the application, run:
 
 ## License
 
-Copyright © 2015 FIXME
+Copyright Â© 2015 Ali Sarac
+
+Distributed under the Eclipse Public License either version 1.0 or (at your option) any later version.
